@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Rust on system and network stuff
 - 📫 How to reach me: Look on the left on my profile :cat:
-- 😄 Pronouns: she/her they/them
+- 😄 Pronouns: https://en.pronouns.page/@jill
 - ⚡ Fun fact: :shrug:
 - I also have a personal GitLab with all my personal projects: https://gitlab.kokakiwi.net/kokakiwi
   - With most of my Rust projects there: https://gitlab.kokakiwi.net/rusted
